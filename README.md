@@ -2,7 +2,7 @@
 
 Author: Christian Alexander
 
-Purpose of "pyramid.py": calculates the weight each individual carries in a human pyramid given the number of levels sys.argv[1]
+Purpose of "pyramid.py": calculates the weight each individual carries in a human pyramid given the number of levels... sys.argv[1]
 
 Instructions: run "pyramid.py" from shell with integer argument to specify number of levels in the human pyramid.
 i.e., >pyramid.py 7 
